@@ -1,0 +1,15 @@
+---
+AlignTrailingComments: true
+AlignConsecutiveAssignments: true
+BreakBeforeBraces: GNU
+ColumnLimit: 120
+IndentWidth: 4
+KeepEmptyLinesAtTheStartOfBlocks: false
+MaxEmptyLinesToKeep: 2
+ObjCSpaceAfterProperty: true
+ObjCSpaceBeforeProtocolList: true
+PointerBindsToType: false
+SpacesBeforeTrailingComments: 1
+TabWidth: 4
+UseTab: Never
+...
